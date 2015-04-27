@@ -1,0 +1,22 @@
+{
+  "name": "webapp-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Toorop/webapp-bootstrap",
+  "authors": [
+    "Stéphane Depierrepont aka Toorop <toorop@toorop.fr>"
+  ],
+  "description": "Bootstrapoer for webapp",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": ""
+  }
+}
